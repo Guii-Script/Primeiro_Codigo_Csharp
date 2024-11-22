@@ -1,0 +1,7 @@
+C:\Users\guilherme.opaula\source\repos\MeuPrimeiroCodigo\MeuPrimeiroCodigo\bin\Debug\MeuPrimeiroCodigo.exe.config
+C:\Users\guilherme.opaula\source\repos\MeuPrimeiroCodigo\MeuPrimeiroCodigo\bin\Debug\MeuPrimeiroCodigo.exe
+C:\Users\guilherme.opaula\source\repos\MeuPrimeiroCodigo\MeuPrimeiroCodigo\bin\Debug\MeuPrimeiroCodigo.pdb
+C:\Users\guilherme.opaula\source\repos\MeuPrimeiroCodigo\MeuPrimeiroCodigo\obj\Debug\MeuPrimeiroCodigo.csproj.AssemblyReference.cache
+C:\Users\guilherme.opaula\source\repos\MeuPrimeiroCodigo\MeuPrimeiroCodigo\obj\Debug\MeuPrimeiroCodigo.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.opaula\source\repos\MeuPrimeiroCodigo\MeuPrimeiroCodigo\obj\Debug\MeuPrimeiroCodigo.exe
+C:\Users\guilherme.opaula\source\repos\MeuPrimeiroCodigo\MeuPrimeiroCodigo\obj\Debug\MeuPrimeiroCodigo.pdb
